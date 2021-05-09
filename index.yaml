@@ -3,7 +3,7 @@ entries:
   git-repo-test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-05-09T11:01:40.603116521+05:30"
+    created: "2021-05-09T11:10:18.148198661+05:30"
     description: A Helm chart for Kubernetes
     digest: 8b412b89394f08107494aa493ff329121ff5c9d9a71cac2785e6cb284d62c989
     name: git-repo-test
@@ -13,7 +13,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-05-09T11:01:40.602638293+05:30"
+    created: "2021-05-09T11:10:18.147724648+05:30"
     description: A Helm chart for Kubernetes
     digest: e4bdc3e2f61a44dda12b8c91d287b94ac3c3fbf80c0f542bf84a30ceb0d814e3
     name: git-repo-test
@@ -21,4 +21,15 @@ entries:
     urls:
     - git-repo-test-0.1.0.tgz
     version: 0.1.0
-generated: "2021-05-09T11:01:40.601992997+05:30"
+  git-repo-test2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-05-09T11:10:18.148662589+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 28d4980910a3a49426b81eef5eb3705addb91e91cdedc7e7180be95392cbe702
+    name: git-repo-test2
+    type: application
+    urls:
+    - git-repo-test2-0.1.1.tgz
+    version: 0.1.1
+generated: "2021-05-09T11:10:18.147070313+05:30"
